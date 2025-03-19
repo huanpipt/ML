@@ -1,2 +1,5 @@
 dir_to_ignore/venv
 dir_to_ignore/.idea
+/venv
+/.idea
+/.ipynb_checkpoints
